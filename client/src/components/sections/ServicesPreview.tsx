@@ -35,7 +35,7 @@ const ServicesPreview = () => {
           viewport={{ once: true }}
           transition={{ duration: 0.5, delay: 0.3 }}
         >
-          <Link href="/services">
+          <Link href="/CityStarsOffice/services">
             <a className="inline-block bg-primary hover:bg-primary-dark text-white font-medium py-2 px-6 rounded-md transition duration-300">
               عرض جميع الخدمات
               <i className="fas fa-arrow-left mr-2"></i>

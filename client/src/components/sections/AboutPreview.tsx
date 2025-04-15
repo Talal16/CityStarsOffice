@@ -49,7 +49,7 @@ const AboutPreview = () => {
           viewport={{ once: true }}
           transition={{ duration: 0.5, delay: 0.5 }}
         >
-          <Link href="/about">
+          <Link href="/CityStarsOffice/about">
             <a className="inline-block bg-primary hover:bg-primary-dark text-white font-medium py-2 px-6 rounded-md transition duration-300">
               المزيد عن المكتب
               <i className="fas fa-arrow-left mr-2"></i>

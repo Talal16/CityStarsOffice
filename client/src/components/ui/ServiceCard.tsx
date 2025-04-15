@@ -9,7 +9,7 @@ interface ServiceCardProps {
   delay?: number;
 }
 
-const ServiceCard = ({ icon, title, description, link = '/services', delay = 0 }: ServiceCardProps) => {
+const ServiceCard = ({ icon, title, description, link = '/CityStarsOffice/services', delay = 0 }: ServiceCardProps) => {
   return (
     <motion.div
       className="bg-white rounded-lg shadow-md overflow-hidden transition-transform duration-300 hover:-translate-y-1 hover:shadow-lg"

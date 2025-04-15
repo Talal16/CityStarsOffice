@@ -23,15 +23,15 @@ function Router() {
       <Header />
       <main className="flex-1">
         <Switch>
-          <Route path="/" component={Home} />
-          <Route path="/about" component={About} />
-          <Route path="/location" component={Location} />
-          <Route path="/branches" component={Branches} />
-          <Route path="/services" component={Services} />
-          <Route path="/booking" component={Booking} />
-          <Route path="/faq" component={FAQ} />
-          <Route path="/legal-references" component={LegalReferences} />
-          <Route path="/contact" component={Contact} />
+          <Route path="/CityStarsOffice" component={Home} />
+          <Route path="/CityStarsOffice/about" component={About} />
+          <Route path="/CityStarsOffice/location" component={Location} />
+          <Route path="/CityStarsOffice/branches" component={Branches} />
+          <Route path="/CityStarsOffice/services" component={Services} />
+          <Route path="/CityStarsOffice/booking" component={Booking} />
+          <Route path="/CityStarsOffice/faq" component={FAQ} />
+          <Route path="/CityStarsOffice/legal-references" component={LegalReferences} />
+          <Route path="/CityStarsOffice/contact" component={Contact} />
           <Route component={NotFound} />
         </Switch>
       </main>

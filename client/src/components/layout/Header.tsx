@@ -11,15 +11,15 @@ const Header = () => {
   };
   
   const navigationLinks = [
-    { href: '/', label: 'الرئيسية' },
-    { href: '/about', label: 'عن المكتب' },
-    { href: '/location', label: 'موقع المكتب' },
-    { href: '/branches', label: 'فروعنا' },
-    { href: '/services', label: 'الخدمات' },
-    { href: '/booking', label: 'كيفية الحجز' },
-    { href: '/faq', label: 'الأسئلة الشائعة' },
-    { href: '/legal-references', label: 'المراجع القانونية' },
-    { href: '/contact', label: 'تواصل معنا' }
+    { href: '/CityStarsOffice/', label: 'الرئيسية' },
+    { href: '/CityStarsOffice/about', label: 'عن المكتب' },
+    { href: '/CityStarsOffice/location', label: 'موقع المكتب' },
+    { href: '/CityStarsOffice/branches', label: 'فروعنا' },
+    { href: '/CityStarsOffice/services', label: 'الخدمات' },
+    { href: '/CityStarsOffice/booking', label: 'كيفية الحجز' },
+    { href: '/CityStarsOffice/faq', label: 'الأسئلة الشائعة' },
+    { href: '/CityStarsOffice/legal-references', label: 'المراجع القانونية' },
+    { href: '/CityStarsOffice/contact', label: 'تواصل معنا' }
   ];
   
   // Handle scroll effect

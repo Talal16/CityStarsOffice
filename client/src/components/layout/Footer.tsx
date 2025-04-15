@@ -31,7 +31,7 @@ const Footer = () => {
             <h3 className="text-xl font-bold mb-4 border-r-4 border-secondary pr-3">خدماتنا</h3>
             <ul className="space-y-2">
               <li>
-                <Link href="/services">
+                <Link href="/CityStarsOffice/services">
                   <a className="text-gray-300 hover:text-white hover:mr-1 transition-all duration-300 flex items-center">
                     <i className="fas fa-chevron-left ml-2 text-xs"></i>
                     توثيق العقود الرسمية
@@ -39,7 +39,7 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link href="/services">
+                <Link href="/CityStarsOffice/services">
                   <a className="text-gray-300 hover:text-white hover:mr-1 transition-all duration-300 flex items-center">
                     <i className="fas fa-chevron-left ml-2 text-xs"></i>
                     إثبات التاريخ
@@ -47,7 +47,7 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link href="/services">
+                <Link href="/CityStarsOffice/services">
                   <a className="text-gray-300 hover:text-white hover:mr-1 transition-all duration-300 flex items-center">
                     <i className="fas fa-chevron-left ml-2 text-xs"></i>
                     التصديق على التوقيعات
@@ -55,7 +55,7 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link href="/services">
+                <Link href="/CityStarsOffice/services">
                   <a className="text-gray-300 hover:text-white hover:mr-1 transition-all duration-300 flex items-center">
                     <i className="fas fa-chevron-left ml-2 text-xs"></i>
                     توكيلات عامة وخاصة
@@ -63,7 +63,7 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link href="/services">
+                <Link href="/CityStarsOffice/services">
                   <a className="text-gray-300 hover:text-white hover:mr-1 transition-all duration-300 flex items-center">
                     <i className="fas fa-chevron-left ml-2 text-xs"></i>
                     عرض جميع الخدمات
@@ -95,7 +95,7 @@ const Footer = () => {
                 </a>
               </li>
               <li>
-                <Link href="/legal-references">
+                <Link href="/CityStarsOffice/legal-references">
                   <a className="text-gray-300 hover:text-white hover:mr-1 transition-all duration-300 flex items-center">
                     <i className="fas fa-chevron-left ml-2 text-xs"></i>
                     دليل الإجراءات
@@ -103,7 +103,7 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link href="/legal-references">
+                <Link href="/CityStarsOffice/legal-references">
                   <a className="text-gray-300 hover:text-white hover:mr-1 transition-all duration-300 flex items-center">
                     <i className="fas fa-chevron-left ml-2 text-xs"></i>
                     النماذج الإلكترونية
